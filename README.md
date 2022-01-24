@@ -6,16 +6,18 @@
 
 ۲- در تصویر ۱ و ۲ رنگ های تیره و روشن جا به جا شده اند. رنگ آن را اصلاح کنید. (بدون استفاده از حلقه for)
 
-![1](https://user-images.githubusercontent.com/94698402/150739970-a64cfa10-1cdc-4ea5-92ba-7c6f62c5ec71.jpg)
+
+![1](https://user-images.githubusercontent.com/94698402/150744348-b3a73ca5-86d2-49f7-a753-bfac367bca69.jpg)
 
 
-![man](https://user-images.githubusercontent.com/94698402/150740077-7971f5ba-5c44-430d-9c76-2b5c3b0b380a.jpg)
+
+![woman](https://user-images.githubusercontent.com/94698402/150744376-200222db-9462-4788-924b-03234b90c3da.jpg)
 
 
-![2](https://user-i![woman](https://user-images.githubusercontent.com/94698402/150740064-d0eed091-2f64-4484-a325-c681303c3d73.jpg)
+![2](https://user-images.githubusercontent.com/94698402/150744389-1d277f59-7ff1-4c1a-a8ca-aa8da62f74e6.jpg)
 
 
-mages.githubusercontent.com/94698402/150740044-7691c038-b6ad-4628-bc20-d16a1149d1bd.jpg)
+![man](https://user-images.githubusercontent.com/94698402/150744415-c18d41f2-d6f8-4ac5-b9bb-13ee77a97989.jpg)
 
 
 
