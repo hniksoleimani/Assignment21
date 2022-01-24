@@ -33,6 +33,13 @@
 
 
 
+![4](https://user-images.githubusercontent.com/94698402/150744480-59a8c0cd-aa6e-42af-9795-9faa9df49207.jpg)
+
+![wolf ](https://user-images.githubusercontent.com/94698402/150744524-c84dbf1a-c1c9-4861-94de-157c2d87eef1.jpg)
+
+
+
+
 ۵- برای تصویر یک شخص به دلخواه، نوار مشکی ترحیم بکشید.
 
 
