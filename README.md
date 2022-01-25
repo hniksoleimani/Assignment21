@@ -42,10 +42,16 @@
 
 ۵- برای تصویر یک شخص به دلخواه، نوار مشکی ترحیم بکشید.
 
+![Picture2](https://user-images.githubusercontent.com/94698402/150934928-d97f118b-b558-4b0a-a08e-800beca7d71e.jpg)
 
+
+![pic](https://user-images.githubusercontent.com/94698402/150934942-c73557af-bc5f-403b-8df2-a4d9a8889920.jpg)
 
 ۶- تصویر زیر را تولید نمایید.
 
+![4](https://user-images.githubusercontent.com/94698402/150934980-d4f60b5c-5c8a-422b-8bca-e8f944f03617.jpg)
 
 
 ۷- کاراکتر اول اسم خود را طراحی نمایید.
+
+![7](https://user-images.githubusercontent.com/94698402/150935002-5e5aff45-4649-4c31-804d-875c7d9c9736.jpg)
