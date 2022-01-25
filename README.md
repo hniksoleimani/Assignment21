@@ -29,6 +29,10 @@
 ![3](https://user-images.githubusercontent.com/94698402/150740139-cfbcf1b4-2d5c-47c5-9043-c2fd9c258f30.jpg)
 
 
+
+![3](https://user-images.githubusercontent.com/94698402/150935585-b2cabe9d-e53e-4097-bc94-c1561f0b2cfe.jpg)
+
+
 ۴- الگوریتمی بنویسید که تصویر ۴ را دریافت کرده و گرگ را از تصویر جدا کند. خروجی باید شبیه تصویر زیر باشد.
 
 
